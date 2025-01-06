@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- [Live Site URL](https://mts-ml.github.io/development/bookmark-landing-page/index.html)
+- [Live Site URL](https://mts-ml.github.io/bookmark-landing-page/)
 
 
 ### Built with
